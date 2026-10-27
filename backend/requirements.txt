@@ -1,0 +1,9 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+motor>=3.6
+pydantic[email]>=2.8
+passlib[bcrypt]>=1.7.4
+bcrypt<4.1
+python-jose[cryptography]>=3.3
+python-dotenv>=1.0
+pymongo>=4.9
